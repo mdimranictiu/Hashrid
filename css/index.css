@@ -314,6 +314,12 @@ ul li a {
 .hero {
   width: 80%;
   margin: 10px auto;
+    background-image: url("../img/Vector\ 16.svg"), url("../img/Vector\ 17.png"),url("../img/Group\ 46.svg");
+  background-position: right bottom, left top,left bottom;
+  background-repeat: no-repeat, no-repeat,no-repeat;
+  background-size: auto, auto, 120px auto; 
+
+
 }
 .hero-title {
   font-size: 65px;
@@ -439,7 +445,7 @@ margin-bottom: 20px;
     text-align: center;
   }
   .hero {
-    width: 90%;
+    width: 100%;
   }
   .group-47 {
     margin-top: -70px;
