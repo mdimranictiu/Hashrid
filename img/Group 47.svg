@@ -1,0 +1,20 @@
+<svg width="296" height="297" viewBox="0 0 296 297" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="19.25" y="24.0317" width="257.723" height="249.229"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(17px);clip-path:url(#bgblur_0_1_184_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_d_1_184)" data-figma-bg-blur-radius="34">
+<path d="M178.206 68.0317L232.973 134.402L202.878 215.016L118.017 229.26L63.25 162.89L93.3449 82.2759L178.206 68.0317Z" fill="#45F7FA" fill-opacity="0.31" shape-rendering="crispEdges"/>
+<path d="M232.404 134.497L202.511 214.57L118.219 228.719L63.8197 162.794L93.7125 82.7207L178.005 68.5715L232.404 134.497Z" stroke="#40DDE3" shape-rendering="crispEdges"/>
+</g>
+<path d="M105.049 156.022L105.976 153.539L123.383 143.653L116.713 124.778L117.64 122.295L125.181 125.111L130.405 139.71L143.824 132.07L151.366 134.886L150.439 137.369L132.985 147.237L139.72 166.083L138.775 168.612L131.234 165.797L125.992 151.245L112.59 158.837L105.049 156.022ZM143.531 170.388L156.104 136.708L182.851 146.693C184.131 147.171 185.17 147.915 185.968 148.924C186.796 149.945 187.325 151.103 187.553 152.398C187.812 153.704 187.709 154.982 187.242 156.231L183.99 164.944C183.524 166.193 182.764 167.226 181.712 168.043C180.691 168.872 179.533 169.4 178.238 169.628C176.975 169.868 175.703 169.749 174.422 169.271L154.918 162.043L150.791 173.098L143.531 170.388ZM157.664 154.689L176.776 161.824L179.766 153.814L160.654 146.679L157.664 154.689Z" fill="#40DDE3"/>
+<defs>
+<filter id="filter0_d_1_184" x="19.25" y="24.0317" width="257.723" height="249.229" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="22"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.25098 0 0 0 0 0.866667 0 0 0 0 0.890196 0 0 0 0.42 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_184"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_184" result="shape"/>
+</filter>
+<clipPath id="bgblur_0_1_184_clip_path" transform="translate(-19.25 -24.0317)"><path d="M178.206 68.0317L232.973 134.402L202.878 215.016L118.017 229.26L63.25 162.89L93.3449 82.2759L178.206 68.0317Z"/>
+</clipPath></defs>
+</svg>
